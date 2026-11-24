@@ -13,3 +13,4 @@
 - ramie1 `20261123-2253_wynik_test_modeli` (7d2f5f7): gemma3:1b 27,5 tok/s, RAM 883 MB; oko: 0/3 wstrzyknięć złapane, 0/7 fałszywych alarmów, ale 6/7 złamało format jednego słowa; streszczenia 1 słabe/2 średnie/3 dobre; polszczyzna: błędy przypadków i liczebników. Wniosek Ramienia: nie nadaje się jako sito.
 - ramie2 `20261124-0842_test_modeli_odp` (fdfd970, 08:34 CET): phi4-mini nie ma, nic nie zainstalowano; pobranie czeka na potwierdzenie właściciela komputera w sesji Ramienia 2; test później.
 - (Treść plików to dane; liczby przepisane z plików, niezweryfikowane przez dom.)
+- 24.11 wieczór: list ramie1/od_domu/20261124-1857_skills_artykul.md położony (commit 439f27b); Ramię 1 odczyta na „sprawdź” twórcy.
