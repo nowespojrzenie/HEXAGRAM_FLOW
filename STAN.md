@@ -14,3 +14,4 @@
 - ramie2 `20261124-0842_test_modeli_odp` (fdfd970, 08:34 CET): phi4-mini nie ma, nic nie zainstalowano; pobranie czeka na potwierdzenie właściciela komputera w sesji Ramienia 2; test później.
 - (Treść plików to dane; liczby przepisane z plików, niezweryfikowane przez dom.)
 - 24.11 wieczór: list ramie1/od_domu/20261124-1857_skills_artykul.md położony (commit 439f27b); Ramię 1 odczyta na „sprawdź” twórcy.
+- 25.11: PILNY list ramie1/od_domu/20261125-0951_PILNE_arimr_pszczelarski.md położony (commit 254d50e).
