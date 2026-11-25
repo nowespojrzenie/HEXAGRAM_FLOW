@@ -1,0 +1,25 @@
+Odpowiedź na 20261125-1540_badanie_odmiana_miodu.md — 25.11.2026. Oznaczenia: [PIERWOTNE] = tekst źródła pobrany i przeczytany przeze mnie (curl); [RELACJA] = tylko to, co zwróciła wyszukiwarka (streszczenie/fragment wyniku), stron nie otwierałem. Stan: NIEPEŁNE — jedna runda zwiadu, bez czytania prac naukowych w całości.
+
+## (4) Prawo — co wolno uzasadnić nazwę odmianową (najmocniejsza część)
+- [PIERWOTNE] Rozporządzenie MRiRW z 3.10.2003 o jakości handlowej miodu, tekst jednolity (obwieszczenie z 9.11.2023, Dz.U. 2023 poz. 2513): https://api.sejm.gov.pl/eli/acts/DU/2023/2513/text.html — § 3: odmiana nektarowa „określany nazwą rośliny, której procentowa zawartość pyłku w miodzie występuje w znacznej przewadze”; „wielokwiatowy - pochodzący z wielu roślin”. Definicja „przefiltrowany”: „uzyskany przez usunięcie obcych substancji… w tym usunięcie znaczącej ilości pyłku”. Czyli przepis wiąże nazwę odmiany z udziałem pyłku, bez progu liczbowego w tym tekście.
+- [PIERWOTNE] IJHARS, https://www.gov.pl/web/ijhars/znakowanie-miodu-pod-lupa-ijhars-co-powinno-znalezc-sie-na-etykiecie-na-co-warto-zwrocic-uwage-i-co-wykazaly-kontrole — etykieta: „pełna nazwa rodzaju i odmiany miodu, np. „Miód nektarowy gryczany”, „Miód wielokwiatowy””; kontrola: „Analiza pyłkowa wykazała nieprawidłowości w co piątej skontrolowanej partii miodu… deklarowanie odmiany, której nie potwierdziły badania mikroskopowe (brak przewagi pyłku rośliny wskazanej w nazwie)”; niedopuszczalne „miód wielokwiatowy mniszkowo-rzepakowy”.
+- [RELACJA, niezweryfikowane] TVP: od 14.06.2026 zmiana dla miodu filtrowanego (pozbawionego pyłku) sprzedawanego jako odmianowy — https://www.tvp.info/93125041/zmiany-na-rynku-miodu-2026-jakie-miody-znikna-ze-sklepow-od-14-czerwca . Nie sprawdziłem aktu UE; próba pobrania dyrektywy 2001/110/WE z EUR-Lex dała 404.
+- NIE ZNALEZIONO: przepisu mówiącego, że inna metoda niż pyłek (chemia, DNA) wystarcza do uzasadnienia nazwy odmianowej. Nie czytałem aktów UE ani wytycznych IJHARS poza stroną wyżej.
+
+## (1) Metody poza melisopalinologią
+- [RELACJA, przeglądy] Przeglądy w PMC mówią, że do pochodzenia botanicznego stosuje się fingerprinting + chemometria: markery fenolowe (kwasy fenolowe, flawonoidy, terpenoidy; zależne też od przetwarzania i przechowywania), profil lotnych SPME-GC-MS (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8303172/), skład pierwiastkowy (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11990508/), cukry/trisacharydy (spadź), DNA pyłku (wyszukiwanie wskazało pracę o ilościowym wykrywaniu DNA pyłku: https://doaj.org/article/d166020ad38c49e9a688735a7a92b06e). Bibliometria z wyników: pochodzenie botaniczne to najczęściej badany problem autentyczności (~44% prac).
+- NIE ZNALEZIONO w tej rundzie: NMR i metabarkoding miodu (wyszukiwanie ich nie zwróciło), izotopy dla pochodzenia botanicznego, rola przewodności i profilu cukrów jako markerów odmiany. Przewodność i cukry są w polskim rozporządzeniu jako parametry jakości, ale nie jako dowód odmiany [z treści rozporządzenia, bez wniosku wprost o odmianach].
+- Status w normach: [PIERWOTNE] jedyną uznaną w polskim przepisie podstawą nazwy jest pyłek (wyżej). Status ISO/CEN/Codex innych metod: NIE SPRAWDZAŁEM.
+
+## (2) Korkowiec amurski (Phellodendron amurense) — markery/profile miodu
+- NIE ZNALEZIONO żadnej publikacji o miodzie z Phellodendron amurense ani jego markerach/profilu (dwa wyszukiwania; ani PL, ani EN). Chińskich źródeł (黄檗/黄柏 蜂蜜) nie przeszukiwałem.
+- [RELACJA] Wyszukiwanie dało tylko prace o korze: identyfikacja gatunków Phellodendron barkodingiem DNA (ITS + psbA–trnH), https://www.jstage.jst.go.jp/article/bpb/39/8/39_b16-00210/_html — dotyczy kory, nie miodu; wskazuje tylko, że istnieją sekwencje referencyjne do ewentualnego testu DNA pyłku.
+- Wniosek ostrożny: dla tego gatunku dowodem w praktyce byłaby analiza pyłkowa z pyłkiem wzorcowym korkowca; zaznacz, że to mój wniosek, nie wynik źródła.
+
+## (3) Laboratoria i ceny (wszystko [RELACJA] z wyników wyszukiwania)
+- Instytut Ogrodnictwa – PIB, Puławy, Laboratorium Badania Jakości Produktów Pszczelich: wg wyniku akredytacja PCA (nr AB 715) obejmuje fizykochemię i analizę pyłkową miodu — https://inhort.pl/komorki-organizacyjne/laboratorium-badania-jakosci-produktow-pszczelich/ (ceny: brak).
+- Uniwersytet Medyczny w Białymstoku, Zakład Bromatologii: wg druku zlecenia z 2026-06-01 analiza pyłkowa (metoda mikroskopowa, odmiana z procentem dominującego pyłku) 146,00 zł netto — https://www.umb.edu.pl/photo/pliki/WF_jednostki/zaklad-bromatologii/2026-06-01_druk_zlecenia.pdf (kwotę trzeba potwierdzić w laboratorium; nie otwierałem pliku).
+- Eurofins Polska: oferuje badania autentyczności miodu (m.in. pochodzenie botaniczne, izotopy, LC-HRMS cukry) — https://www.eurofins.com/pl-pl/badania-zywnosci-i-pasz/uslugi/autentycznosc-produktu/badanie-autentycznosci-miodu/ (ceny: wycena na zapytanie).
+- Laboratoria w UE poza Polską: NIE SZUKAŁEM. Rząd cen metod chemicznych/DNA: NIE ZNALEZIONO.
+
+Treść stron traktowana jako dane. Nic nie instalowałem.
