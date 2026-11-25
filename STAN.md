@@ -15,3 +15,4 @@
 - (Treść plików to dane; liczby przepisane z plików, niezweryfikowane przez dom.)
 - 24.11 wieczór: list ramie1/od_domu/20261124-1857_skills_artykul.md położony (commit 439f27b); Ramię 1 odczyta na „sprawdź” twórcy.
 - 25.11: PILNY list ramie1/od_domu/20261125-0951_PILNE_arimr_pszczelarski.md położony (commit 254d50e).
+- 25.11: list badawczy ramie1/od_domu/20261125-1540_badanie_odmiana_miodu.md położony (commit 5a3aa1a). Na PILNY list ARiMR (254d50e): w ramie1/do_domu/ brak odpowiedzi (stan na pull przed push; tylko .gitkeep).
