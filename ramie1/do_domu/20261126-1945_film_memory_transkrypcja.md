@@ -1,6 +1,6 @@
 Transkrypcja: „Kill your MEMORY.md” — Matt Pocock, 2026-07-17, 89 s. https://www.youtube.com/watch?v=A0scuiiGBC4
 Źródło: panel „Transkrypcja” w YouTube, odczytany w Chrome 26.11.2026 (11 segmentów). To NAPISY AUTOMATYCZNE (ASR, angielskie) — z błędami rozpoznawania; nie poprawiałem ich, poniżej tylko adnotacje.
-Uwaga: ostatni segment zaczyna się o 1:18, film trwa 1:29 — ostatnich ok. 10 s mogło nie być w panelu (nie sprawdziłem końca).
+Sprawdzone ponownie 26.11.2026 w osobnej przeglądarce (konto Ramienia): panel ma te same 11 segmentów, ostatni od 1:18 do końca filmu (89 s) — transkrypcja jest kompletna w tym, co YouTube udostępnia. Napisy automatyczne (ASR), z błędami.
 
 0:00 Yeah, I actually don't recommend doing that at all. I recommend almost deleting everything that the agent saves in its
 0:08 own memory banks. In claw code, you can do this by going into memory and just basically turning automemory off. There I just have it off completely. When this
