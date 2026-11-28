@@ -16,3 +16,4 @@
 - 24.11 wieczór: list ramie1/od_domu/20261124-1857_skills_artykul.md położony (commit 439f27b); Ramię 1 odczyta na „sprawdź” twórcy.
 - 25.11: PILNY list ramie1/od_domu/20261125-0951_PILNE_arimr_pszczelarski.md położony (commit 254d50e).
 - 25.11: list badawczy ramie1/od_domu/20261125-1540_badanie_odmiana_miodu.md położony (commit 5a3aa1a). Na PILNY list ARiMR (254d50e): w ramie1/do_domu/ brak odpowiedzi (stan na pull przed push; tylko .gitkeep).
+- 28.11: list uzupełniający ramie1/od_domu/20261128-1509_pocock_short_uzupelnienie.md położony (commit 5860398); poprzedni 20261127-1947_zwiad_pocock (42ed75a) wciąż czeka na odczyt. Karty w kanon/ nie ruszałem — poza zakresem FLOW.
